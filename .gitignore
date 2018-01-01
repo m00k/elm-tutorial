@@ -1,6 +1,8 @@
 node_modules
+dist
 
 .vs-code
+
 
 # elm-package generated files
 elm-stuff

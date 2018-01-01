@@ -5,6 +5,11 @@
   "repository": "https://github.com/m00k/elm-tutorial.git",
   "author": "m00k <christian.bican@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "api": "node api.js",
+    "build": "webpack",
+    "client": "webpack-dev-server --port 3000"
+  },
   "devDependencies": {
     "css-loader": "^0.28.7",
     "elm-webpack-loader": "^4.4.0",
