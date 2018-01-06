@@ -1,4 +1,7 @@
+@import './_colors.scss';
+
+
 body {
-  background: #2d3143;
-  color: #ddd;
+  background: $cl-bg;
+  color: $cl-fg;
 }
