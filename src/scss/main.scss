@@ -5,3 +5,19 @@ body {
   background: $cl-bg;
   color: $cl-fg;
 }
+
+.cl-bg {
+  background: $cl-bg;
+}
+
+.cl-bg-inverted {
+  background: $cl-fg;
+}
+
+.cl-fg {
+  color: $cl-fg;
+}
+
+.cl-fg-inverted {
+  color: $cl-bg;
+}
